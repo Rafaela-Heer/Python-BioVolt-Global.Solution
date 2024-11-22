@@ -18,7 +18,7 @@ Empresas recebendo vários candidatos para uma vaga. Ter que gerenciar os dados 
 
 ## Funcionalidades
 - **Coleta de Informações:** Nome, CPF, idade, e-mail, anos de experiência e competências. Realiza validações, como CPF válido (11 dígitos) e idade mínima de 18 anos;
-- **Armazenamento:** Os dados dos candidatos são salvos no arquivo candidatos.txt para consulta futura;
+- **Armazenamento:** Os dados dos candidatos são salvos no arquivo candidatos.txt para consulta futura, fazendo a simulação de um banco de dados;
 - **Consulta de Dados:** Permite visualizar todos os candidatos cadastrados de forma organizada;
 - **Menu Interativo:** Contém as opções de cadastrar um novo candidato, consultar candidatos já registrados e encerrar o programa.
 
