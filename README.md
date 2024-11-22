@@ -6,6 +6,11 @@
 # Python - Sistema de Cadastro de Candidatos
 
 ## Visão Geral
+Projeto de sistema de geradores de energia movidos a biomassa, que a partir de resíduos orgânicos retirados de locais de fluxo d’água poluídos,
+junto a um programa de incentivo a separação correta de material orgânico, com o uso de filtros para reduzir as emissões de gases nocivos, 
+como CO₂, oferece uma solução sustentável de geração de energia que será destinada para empresas, para o setor de agronegócio.
+
+## Gerenciamento de Candidatos
 Este projeto é um sistema desenvolvido em Python para gerenciar o cadastro de candidatos a vagas de emprego. Ele realiza a coleta, validação e armazenamento de informações, permitindo a consulta dos dados registrados de forma simples e eficiente.
 
 ## Dor encontrada
